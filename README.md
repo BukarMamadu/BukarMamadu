@@ -8,8 +8,8 @@ I'm a Software and Network Engineer who currently works at the University of Mai
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
-- 🌱 I’m currently learning JavaScript, ReactJS, and NodeJS.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I have intermediate level proficiency in Java, JavaScript and NodeJS.
+- 😊 I’m looking for open source projects, hackathons and Back-End Engineering opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing bukarmamadu@gmail.com.
 
